@@ -2,6 +2,7 @@
   "name": "react-chat-application",
   "version": "1.0.0",
   "description": "",
+	"homepage":"https://duy7210hotmail.github.io/react-chat-application",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server .",
